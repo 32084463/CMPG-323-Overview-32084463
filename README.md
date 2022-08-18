@@ -1,7 +1,7 @@
 # CMPG-323-Overview-32084463
 
 # Which repositories will be created and used for each project
-The CMPG-323-Overview as its going to be linked to the project and the main branching is on this repository
+https://github.com/32084463/CMPG-323-Overview-32084463 
 
 # Diagram explaining project and repository context and how they are integrated
 
